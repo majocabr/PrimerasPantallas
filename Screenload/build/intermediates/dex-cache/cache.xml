@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_ae9a0d38b373da1a5e3589a6284c63ff1d35e365.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_abd151db71fd6ec87f20aceafafbbf4f372bf8be.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_411b26087b8a63c43c16052611a1954ce61a2d28.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_aae9fb1381b6bebb68394796eeb19d8382969d18.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a7ffc91f601d51059b2ab6db89246aae7c53b7d">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b81e0e1aeddf9b87aa10288122f36b73f389bbf8.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_f18aabc5b7a164ad31925812aba5101343e9e7e0.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_8f48568c93cc71333fe31f6425919d3255e525b0.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c6c377a16610ab22468f3a05c846efa241b5cace">
+        <dex dex="/home/estudiante/AndroidStudioProjects/Taller/Screenload/app/build/intermediates/pre-dexed/debug/instant-run_fa0f613d5fbd85446612b08ae1d84aee5b64ba78.jar" />
+    </item>
+
+</items>
